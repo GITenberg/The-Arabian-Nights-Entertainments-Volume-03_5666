@@ -1,5 +1,5 @@
 _repo: The-Arabian-Nights-Entertainments-Volume-03_5666
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Scott, Jonathan
@@ -25,5 +25,6 @@ subjects:
 - !lcsh 'Fairy tales'
 - !lcc 'PJ'
 - !lcsh 'Tales -- Arab countries'
+- GITenberg
 title: The Arabian Nights Entertainments — Volume 03
 url: http://www.gutenberg.org/ebooks/5666
